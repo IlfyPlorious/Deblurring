@@ -173,7 +173,9 @@ cython_debug/
 .idea
 img
 runs
-dataset
+dataset/GOPRO_Large
+dataset/GOPRO/test/*
+dataset/GOPRO/train/*
 dataset.zip
 
 
