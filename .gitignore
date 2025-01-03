@@ -174,8 +174,8 @@ cython_debug/
 img
 runs
 dataset/GOPRO_Large
-dataset/GOPRO/test/*
-dataset/GOPRO/train/*
+dataset/GOPRO/test
+dataset/GOPRO/train
 dataset.zip
 
 
