@@ -170,9 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-./.idea
-./dataset
-./img
-./runs
+.idea
+dataset
+img
+runs
 
 
